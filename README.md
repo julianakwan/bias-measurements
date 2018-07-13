@@ -1,4 +1,4 @@
-Scripts to measure observables from simulations
+Scripts to measure cosmological observables from N-body simulations
 
 fit_bias.py fits for linear bias, b1, and its next order perturbation,
 b2, from halo and dark matter density fields measured from N-body
